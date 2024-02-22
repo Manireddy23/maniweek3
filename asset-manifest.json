@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maniweek3/static/css/main.ff02f4b5.css",
+    "main.js": "/maniweek3/static/js/main.a7d22a47.js",
+    "static/js/453.239c06e6.chunk.js": "/maniweek3/static/js/453.239c06e6.chunk.js",
+    "index.html": "/maniweek3/index.html",
+    "main.ff02f4b5.css.map": "/maniweek3/static/css/main.ff02f4b5.css.map",
+    "main.a7d22a47.js.map": "/maniweek3/static/js/main.a7d22a47.js.map",
+    "453.239c06e6.chunk.js.map": "/maniweek3/static/js/453.239c06e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.a7d22a47.js"
+  ]
+}
